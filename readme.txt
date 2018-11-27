@@ -1,2 +1,2 @@
 this file is created to learn git.
-git is free software
+git is free software distributed under the GPL.
